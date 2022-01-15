@@ -8,7 +8,7 @@ let offsetY = 190;
 var square = [];
 
 function preload() {
-  img = loadImage();
+  img = loadImage(image_path);
 }
 
 function setup() {
